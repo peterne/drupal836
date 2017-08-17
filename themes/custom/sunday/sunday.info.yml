@@ -3,6 +3,11 @@ type: theme
 description: 'Sunday theming'
 core: 8.x
 base theme: classy
+libraries:
+  - sunday/global-styling
+  - sunday/global-js
+stylesheets-remove: 
+  - core/themes/stable/css/views/views.module.css
 regions:
   header: Header
   content: Content
