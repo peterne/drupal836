@@ -1,0 +1,10 @@
+name: Sunday 
+type: theme
+description: 'Sunday theming'
+core: 8.x
+base theme: classy
+regions:
+  header: Header
+  content: Content
+  sidebar_first: 'Sidebar first'
+  footer: Footer
