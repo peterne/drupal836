@@ -8,8 +8,3 @@ libraries:
   - sunday/global-js
 stylesheets-remove: 
   - core/themes/stable/css/views/views.module.css
-regions:
-  header: Header
-  content: Content
-  sidebar_first: 'Sidebar first'
-  footer: Footer
