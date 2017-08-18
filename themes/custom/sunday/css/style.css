@@ -1,3 +1,15 @@
 h1 {
   color: red;
 }
+
+.region-header {
+  background: yellow;
+}
+
+.region-content {
+  background: red;
+}
+
+.region-footer {
+  background: green;
+}
