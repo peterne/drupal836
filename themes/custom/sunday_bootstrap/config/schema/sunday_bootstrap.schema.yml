@@ -1,5 +1,5 @@
 # Schema for the theme setting configuration file of the THEMETITLE theme.
 
-sunday-bootstrap.settings:
+sunday_bootstrap.settings:
   type: theme_settings
-  label: 'sunday-bootstrap settings'
+  label: 'sunday_bootstrap settings'
